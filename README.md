@@ -1,7 +1,7 @@
 # Python-Basic-Projects
 This is my basics python projects that gives me the confident for programming.
 
-                                                 #KEY CONCEPT COVERED
+                                                == KEY CONCEPT COVERED ==
 
 -- Variable and datatype.
 -- Loops (for, while).
@@ -11,7 +11,7 @@ This is my basics python projects that gives me the confident for programming.
 -- Error handiling
 -- and, or operators
 
-                                                #Projects Included
+                                                == Projects Included ==
 
 1. Rock, Paper and scissor        (60 lines)
 2. Password generator             (22 lines)
