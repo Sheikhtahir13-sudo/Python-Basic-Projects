@@ -1,9 +1,9 @@
 # BUILD BY MUHAMMAD TAHIR
-# Import
+# Import library
 import random
 
 while True:
-    try:                                                 # error handling
+    try:                                                 # Error handling
         title1 = "== PASSWORD GENERATOR ==\n"   
         print(title1.center(60))
 
