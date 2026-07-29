@@ -1,0 +1,13 @@
+BUILD BY MUHAMMAD TAHIR
+======== Library Management System ========
+
+1. Admin Login
+
+    * Add Books
+    * Display Books
+    * Delete Books
+    * Purchase Books
+    * View Amount
+    * Custmer Info
+
+2. Exit
